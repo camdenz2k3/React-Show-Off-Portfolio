@@ -9,13 +9,17 @@ function Footer() {
       link: "https://github.com/camdenz2k3"
     },
     {
-      name: "fab fa-linkedin",
-      link: "https://www.linkedin.com/"
+      name: "fab fa-slack",
+      link: "https://alwaystimetocode.slack.com/U03UPHQBJ90"
     },
     {
       name: "fab fa-instagram",
       link: "https://instagram.com/zach_camden"
-    }
+    },
+    {
+      name: "fab fa-slack",
+      link: "mailto:camdenz@gmail.com"
+    },
   ]
 
   return (
