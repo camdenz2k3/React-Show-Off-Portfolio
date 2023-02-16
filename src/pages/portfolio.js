@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import Project from "../components/project";
 import TechBlog from '../images/TechBlog.png'
 import RLServices from "../images/homepage.png"
-// import TeamProfileGen from "../images/profile.png"
+import NoteTaker from "../images/homepg.png"
 import Book from "../images/random-book.png"
 import Weatherapp from "../images/weatherapp.png"
 import Workday from "../images/workdayplanner.png"
@@ -44,6 +44,13 @@ function Portfolio() {
       img: Workday,
       link: "https://camdenz2k3.github.io/Work-Day-Scheduler/",
       repo: "https://github.com/camdenz2k3/Work-Day-Scheduler"
+    },
+    {
+      name: 'Note Taker',
+      description: 'Simple Blog site that uses Handlebars/JavaScript',
+      img: NoteTaker,
+      link: "https://note-taker-simple.herokuapp.com/",
+      repo: "https://github.com/camdenz2k3/note-taker"
     },
   ]);
 
