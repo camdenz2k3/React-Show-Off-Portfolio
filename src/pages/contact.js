@@ -1,7 +1,7 @@
 import React from 'react';
 import { useForm } from 'react-hook-form';
 
-export default function Contact() {
+ function Contact() {
   const { register, handleSubmit, formState: { errors }} = useForm();
   const onSubmit = data => {
     console.log(data);
@@ -9,11 +9,10 @@ export default function Contact() {
     }
   
   return (
-    <>
-        <h2>Contact</h2>
+    <section>
         <p>Enter a first name, last name and valid email address below to contact me</p>
 
-        <form onSubmit={handleSubmit(onSubmit)}>
+        <form id= "contact-form" onSubmit={handleSubmit(onSubmit)}>
         <input type="text" placeholder="First name" {...register("First name", {required: true, maxLength: 80})} />
         <input type="text" placeholder="Last name" {...register("Last name", {required: true, maxLength: 100})} />
         <input type="text" placeholder="Email" {...register("Email", {required: true, pattern: /^\S+@\S+$/i})} />
@@ -21,6 +20,8 @@ export default function Contact() {
 
         <input type="submit" />
         </form>
-    </>
+    </section>
   );
 }
+
+export default Contact

@@ -2,20 +2,21 @@ import profilePic from '../images/profilepic.PNG'
 
 const AboutMe = props => {
     return (
-        <section className="my-5">
-          <div className="my-2">
-            <div className="profile-img my-5">
+        <section id= "about">
+            <div className="card">
             <div id="profile-container">
-            <img id="profilepic" alt="profile" src={profilePic} width="300"/>
+            <img id="profilepic" alt="profile" src={profilePic} width="500"/>            
             </div>
-            </div>
-            <h5>
-            Helvetica put a bird on it church-key Blue Bottle banjo bespoke brunch Etsy authentic Marfa quinoa typewriter plaid direct trade small batch wayfarers bicycle rights cliche craft beer gastropub single-origin coffee Godard Carles you probably haven't heard of them irony pickled kitsch synth sriracha gentrify literally heirloom blog Truffaut paleo scenester
-            </h5>
+            <div id="desc">
             <p>
-            Echo Park sriracha Pinterest vegan biodiesel 90's irony iPhone Kickstarter Carles crucifix kitsch narwhal dreamcatcher pickled trust fund selvage art party letterpress Tumblr post-ironic kogi Thundercats Tonx Brooklyn Pitchfork Odd Future authentic normcore freegan leggings Schlitz chambray organic tousled retro fap squid street art church-key fashion axe Wes Anderson bespoke whatever gentrify banh mi you probably haven't heard of them American Apparel next level pug ugh.
+            Hi My Name is Zachary Camden
             </p>
-          </div>
+            <p>
+            I have learned how to code full stack and here you <br/>
+            can find some of my creations to see my skills!
+            </p>
+            </div>
+            </div>
         </section>
       );
     }

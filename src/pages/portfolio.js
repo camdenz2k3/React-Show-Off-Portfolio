@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import Project from "../components/project";
 import TechBlog from '../images/TechBlog.png'
 import RLServices from "../images/homepage.png"
-import TeamProfileGen from "../images/profile.png"
+// import TeamProfileGen from "../images/profile.png"
 import Book from "../images/random-book.png"
 import Weatherapp from "../images/weatherapp.png"
 import Workday from "../images/workdayplanner.png"
