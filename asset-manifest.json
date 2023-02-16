@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/React-Show-Off-Portfolio/static/css/main.fc497156.css",
+    "main.js": "/React-Show-Off-Portfolio/static/js/main.db6b4881.js",
+    "static/media/cover-image.jpg": "/React-Show-Off-Portfolio/static/media/cover-image.3f4b8a47f17655a4ac17.jpg",
+    "static/media/run-buddy.jpg": "/React-Show-Off-Portfolio/static/media/run-buddy.b57f2b88349c6b77211d.jpg",
+    "static/media/led-wall.jpg": "/React-Show-Off-Portfolio/static/media/led-wall.c905c2d12b5c9b7485ff.jpg",
+    "static/media/calculator.jpg": "/React-Show-Off-Portfolio/static/media/calculator.bb6f4d8d88b3569cb0e0.jpg",
+    "static/media/surf-report.jpg": "/React-Show-Off-Portfolio/static/media/surf-report.6490cdfef5afd0538437.jpg",
+    "static/media/pastel-puzzels.jpg": "/React-Show-Off-Portfolio/static/media/pastel-puzzels.5ff0a7600bae7cd50d00.jpg",
+    "index.html": "/React-Show-Off-Portfolio/index.html",
+    "main.fc497156.css.map": "/React-Show-Off-Portfolio/static/css/main.fc497156.css.map",
+    "main.db6b4881.js.map": "/React-Show-Off-Portfolio/static/js/main.db6b4881.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc497156.css",
+    "static/js/main.db6b4881.js"
+  ]
+}
