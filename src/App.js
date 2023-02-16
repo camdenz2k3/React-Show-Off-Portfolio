@@ -4,15 +4,20 @@ import Nav from "./components/Nav";
 import Page from "./components/Page";
 import Footer from "./components/Footer";
 
+import AboutMe from './pages/aboutme'
+import Portfolio from './pages/portfolio'
+import Contact from './pages/contact'
+import Resume from './pages/resume'
+
 function App() {
   const [pages] = useState([
     {
-      name: "about me"
+      name: "AboutMe"
     },
-    { name: "portfolio" },
-    { name: "contact" },
+    { name: "Portfolio" },
+    { name: "Contact" },
     {
-      name: "resume"
+      name: "Resume"
     }
   ]);
 
