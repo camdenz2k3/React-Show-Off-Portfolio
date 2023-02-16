@@ -1,5 +1,5 @@
 import React from 'react';
-import { removeHyphensAndCapitalize } from '../../utils/helpers';
+import { removeHyphensAndCapitalize } from '../utils/helpers';
 
 function Project({ project }) {
 
