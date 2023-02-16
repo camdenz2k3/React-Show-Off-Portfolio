@@ -10,14 +10,10 @@ function Footer() {
     },
     {
       name: "fab fa-slack",
-      link: "https://alwaystimetocode.slack.com/U03UPHQBJ90"
+      link: "https://join.slack.com/t/alwaystimetocode/signup"
     },
     {
-      name: "fab fa-instagram",
-      link: "https://instagram.com/zach_camden"
-    },
-    {
-      name: "fab fa-slack",
+      name: "fa fa-mail-bulk",
       link: "mailto:camdenz@gmail.com"
     },
   ]
