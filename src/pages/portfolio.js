@@ -18,16 +18,18 @@ function Portfolio() {
       repo: "https://github.com/camdenz2k3/CMS-Styled-Tech-Blog"
     },
     {
-      name: 'pastel-puzzels',
-      description: 'MERN Stack',
-      link: "https://github.com",
-      repo: "https://github.com"
+      name: 'Toss Me A Book',
+      description: 'This application helps the user find a book to read in many different ways.',
+      img: Book,
+      link: "https://camdenz2k3.github.io/Toss-Me-A-Book-/",
+      repo: "https://github.com/camdenz2k3/Toss-Me-A-Book"
     },
     {
-      name: 'run-buddy',
-      description: 'HTML/CSS',
-      link: "https://github.com",
-      repo: "https://github.com"
+      name: 'Weather Forecast',
+      description: '5 day weather forecast for any city searched',
+      img: Weatherapp,
+      link: "https://camdenz2k3.github.io/Weather-Forecast/",
+      repo: "https://github.com/camdenz2k3/Weather-Forecast"
     },
     {
       name: 'R and L Services',
@@ -37,10 +39,11 @@ function Portfolio() {
       repo: "https://github.com/camdenz2k3/RL-Services"
     },
     {
-      name: 'calculator',
-      description: 'React/JavaScript/CSS',
-      link: "https://github.com",
-      repo: "https://github.com"
+      name: 'Work Day Scheduler',
+      description: 'This is a simple calendar application that allows a user to save events to local host for each hour of the day for normal bussiness hours.',
+      img: Workday,
+      link: "https://camdenz2k3.github.io/Work-Day-Scheduler/",
+      repo: "https://github.com/camdenz2k3/Work-Day-Scheduler"
     },
   ]);
 
