@@ -1,17 +1,17 @@
 import React from 'react';
-import PageContent from '../PageContent';
-import About from '../About';
-import Portfolio from '../Portfolio';
-import Contact from '../Contact';
-import Resume from '../Resume';
-import { capitalizeFirstLetter } from '../../utils/helpers';
+import PageContent from './PageContent';
+import AboutMe from '../pages/aboutme';
+import Portfolio from '../pages/portfolio';
+import Contact from '../pages/contact';
+import Resume from '../pages/resume';
+import { capitalizeFirstLetter } from '../utils/helpers';
 
 function Page({ currentPage }) {
 
   const renderPage = () => {
     switch (currentPage.name) {
       case 'about me':
-        return <About />;
+        return <AboutMe />;
       case 'portfolio':
         return <Portfolio />;
       case 'contact':
@@ -19,7 +19,7 @@ function Page({ currentPage }) {
       case 'resume':
         return <Resume />;
       default:
-        return <About />;
+        return <AboutMe />;
     }
   };
 

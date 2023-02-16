@@ -1,13 +1,9 @@
 import React, { useState } from "react";
-import Header from "./components/Header";
-import Nav from "./components/Nav";
-import Page from "./components/Page";
-import Footer from "./components/Footer";
+import Header from "./components/header";
+import Nav from "./components/nav";
+import Page from "./components/page";
+import Footer from "./components/footer";
 
-import AboutMe from './pages/aboutme'
-import Portfolio from './pages/portfolio'
-import Contact from './pages/contact'
-import Resume from './pages/resume'
 
 function App() {
   const [pages] = useState([
