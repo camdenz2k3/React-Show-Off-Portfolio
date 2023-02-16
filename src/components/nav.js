@@ -1,7 +1,8 @@
 import React, { useEffect } from 'react';
 import { capitalizeFirstLetter } from '../utils/helpers';
 
-function Nav(props) {
+const Nav = (props) => {
+
   const {
     pages = [],
     setCurrentPage,
@@ -18,8 +19,7 @@ function Nav(props) {
           {pages.map((Page) => (
             <li
               className={`mx-5 ${
-                currentPage.name === Page.name && 'navActive'
-                }`}
+                currentPage.name === Page.name ? 'navActive' : 'navInactive'}`}
               key={Page.name}
             >
               <span

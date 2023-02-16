@@ -1,5 +1,5 @@
 import React from 'react';
-// import PageContent from './PageContent';
+import PageContent from './PageContent';
 import AboutMe from '../pages/aboutme';
 import Portfolio from '../pages/portfolio';
 import Contact from '../pages/contact';
