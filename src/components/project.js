@@ -3,12 +3,11 @@ import { removeHyphensAndCapitalize } from '../utils/helpers';
 
 function Project({ project }) {
 
-  const { name, repo, link, description } = project;
+  const { name, img, repo, link, description } = project;
 
   return (
     <div className="project" key={name}>
-      <img
-   //     src={require(`../../assets/projects/${name}.jpg`).default}
+      <img src= {img}
         alt={removeHyphensAndCapitalize(name)}
         className="project-bg"
       />
