@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/React-Show-Off-Portfolio/static/css/main.9230cb2a.css",
-    "main.js": "/React-Show-Off-Portfolio/static/js/main.209e3fd2.js",
+    "main.css": "/React-Show-Off-Portfolio/static/css/main.7c6a125d.css",
+    "main.js": "/React-Show-Off-Portfolio/static/js/main.12743fb2.js",
     "static/media/homepage.png": "/React-Show-Off-Portfolio/static/media/homepage.bf1cf4a791d2713ad1a4.png",
     "static/media/profilepic.PNG": "/React-Show-Off-Portfolio/static/media/profilepic.1f6e42c6422f70ab55df.PNG",
     "static/media/random-book.png": "/React-Show-Off-Portfolio/static/media/random-book.689a50f12b9cd52b2c9f.png",
@@ -9,12 +9,13 @@
     "static/media/workdayplanner.png": "/React-Show-Off-Portfolio/static/media/workdayplanner.beda7f984ca8704fb556.png",
     "static/media/weatherapp.png": "/React-Show-Off-Portfolio/static/media/weatherapp.8a5de539edf62da72c71.png",
     "static/media/homepg.png": "/React-Show-Off-Portfolio/static/media/homepg.816d2d05debf41a28103.png",
+    "static/media/Resume.pdf": "/React-Show-Off-Portfolio/static/media/Resume.f0309f0bda904bdb594f.pdf",
     "index.html": "/React-Show-Off-Portfolio/index.html",
-    "main.9230cb2a.css.map": "/React-Show-Off-Portfolio/static/css/main.9230cb2a.css.map",
-    "main.209e3fd2.js.map": "/React-Show-Off-Portfolio/static/js/main.209e3fd2.js.map"
+    "main.7c6a125d.css.map": "/React-Show-Off-Portfolio/static/css/main.7c6a125d.css.map",
+    "main.12743fb2.js.map": "/React-Show-Off-Portfolio/static/js/main.12743fb2.js.map"
   },
   "entrypoints": [
-    "static/css/main.9230cb2a.css",
-    "static/js/main.209e3fd2.js"
+    "static/css/main.7c6a125d.css",
+    "static/js/main.12743fb2.js"
   ]
 }
