@@ -25,7 +25,9 @@ function Page({ currentPage }) {
 
   return (
     <section>
+      <div className='text-coloring'>
       <h2>{capitalizeFirstLetter(currentPage.name)}</h2>
+      </div>
       <PageContent>{renderPage()}</PageContent>
     </section>
   );

@@ -41,7 +41,7 @@ function Contact() {
   };
 
   return (
-    <section>
+    <section className='text-coloring'>
       <form id="contact-form" onSubmit={handleSubmit}>
         <div>
           <label htmlFor="name">Name:</label>
