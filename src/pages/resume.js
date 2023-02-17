@@ -1,12 +1,12 @@
 import React from 'react';
-import Portfolio from './portfolio.png';
+import ResumeDownload from '../images/Resume.pdf';
 const Resume = props => {
 
     return (
       <section className="resume-text my-5">
         <div className="my-2">
         <p>
-          Download my <a href={Portfolio} download target="_blank">resume</a>
+          Download my <a href={ResumeDownload} download target="_blank" rel="noreferrer">resume</a>
           </p>
           <h3>Front-end Proficiencies</h3>
           <ul className="skills">
