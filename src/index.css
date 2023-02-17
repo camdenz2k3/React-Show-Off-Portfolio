@@ -93,6 +93,7 @@ a {
   color: var(--indian-red);
   text-decoration: none;
   opacity: .5;
+  font-weight: bold;
 }
 
 a:hover {

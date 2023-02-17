@@ -1,12 +1,12 @@
 import React from 'react';
-
+import Portfolio from './portfolio.png';
 const Resume = props => {
 
     return (
       <section className="resume-text my-5">
         <div className="my-2">
         <p>
-          Download my <a href="https://www.linkedin.com/"><strong>resume</strong></a>
+          Download my <a href={Portfolio} download target="_blank">resume</a>
           </p>
           <h3>Front-end Proficiencies</h3>
           <ul className="skills">
