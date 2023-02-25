@@ -52,6 +52,13 @@ function Portfolio() {
       link: "https://note-taker-simple.herokuapp.com/",
       repo: "https://github.com/camdenz2k3/note-taker"
     },
+    {
+      name: 'Vittles',
+      description: 'Budgeting app to add, view and delete receipts using MERN stack',
+      img: NoteTaker,
+      link: "https://radiant-journey-73193.herokuapp.com/",
+      repo: "https://github.com/kevinkraiss/mern-project-03"
+    },
   ]);
 
   return (
