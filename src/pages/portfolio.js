@@ -6,6 +6,7 @@ import NoteTaker from "../images/homepg.png"
 import Book from "../images/random-book.png"
 import Weatherapp from "../images/weatherapp.png"
 import Workday from "../images/workdayplanner.png"
+import Vittles from "../images/vittles.png"
 function Portfolio() {
 
 
@@ -55,7 +56,7 @@ function Portfolio() {
     {
       name: 'Vittles',
       description: 'Budgeting app to add, view and delete receipts using MERN stack',
-      img: NoteTaker,
+      img: Vittles,
       link: "https://radiant-journey-73193.herokuapp.com/",
       repo: "https://github.com/kevinkraiss/mern-project-03"
     },
