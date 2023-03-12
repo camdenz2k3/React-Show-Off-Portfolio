@@ -9,7 +9,7 @@ const AboutMe = props => {
             </div>
             <div id="desc">
             <p>
-            Hi My Name is Zachary Camden I am 19 years old and <br/>
+            Hi My Name is Zachary Camden. I am 19 years old and <br/>
             just finished attending the coding bootcamp through the <br/>
             UW school system and have the knowledge to be a full <br/>
             stack web developer!
@@ -17,9 +17,9 @@ const AboutMe = props => {
             <p>
             Under portfolio you can find some of my deployed <br/>
             projects both independent and group applications. <br/>
-            in my github you can see all my front end, back end, <br/>
-            api keys and all the technologies i've used in action <br/>
-            I am still interested in learning even more languages <br/>
+            In my github you can see all my front end, back end, <br/>
+            api keys and technologies I've used in action. <br/>
+            I am still interested in learning more languages <br/>
             and technologies after the class is over!
             </p>
             </div>
