@@ -1,5 +1,5 @@
 import React from 'react';
-import ResumeDownload from '../images/Resume.pdf';
+import ResumeDownload from '../images/newResume.pdf';
 const Resume = props => {
 
     return (
