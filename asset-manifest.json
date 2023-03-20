@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/React-Show-Off-Portfolio/static/css/main.7c6a125d.css",
-    "main.js": "/React-Show-Off-Portfolio/static/js/main.0fc46de9.js",
+    "main.js": "/React-Show-Off-Portfolio/static/js/main.e78bfe2e.js",
     "static/media/homepage.png": "/React-Show-Off-Portfolio/static/media/homepage.bf1cf4a791d2713ad1a4.png",
     "static/media/profilepic.PNG": "/React-Show-Off-Portfolio/static/media/profilepic.1f6e42c6422f70ab55df.PNG",
     "static/media/vittles.png": "/React-Show-Off-Portfolio/static/media/vittles.29c8784b2ae42be50140.png",
     "static/media/random-book.png": "/React-Show-Off-Portfolio/static/media/random-book.689a50f12b9cd52b2c9f.png",
     "static/media/TechBlog.png": "/React-Show-Off-Portfolio/static/media/TechBlog.770ccfd276716e673ee5.png",
+    "static/media/newResume.pdf": "/React-Show-Off-Portfolio/static/media/newResume.6f6071be738272e41dff.pdf",
     "static/media/workdayplanner.png": "/React-Show-Off-Portfolio/static/media/workdayplanner.beda7f984ca8704fb556.png",
     "static/media/weatherapp.png": "/React-Show-Off-Portfolio/static/media/weatherapp.8a5de539edf62da72c71.png",
     "static/media/homepg.png": "/React-Show-Off-Portfolio/static/media/homepg.816d2d05debf41a28103.png",
-    "static/media/Resume.pdf": "/React-Show-Off-Portfolio/static/media/Resume.f0309f0bda904bdb594f.pdf",
     "index.html": "/React-Show-Off-Portfolio/index.html",
     "main.7c6a125d.css.map": "/React-Show-Off-Portfolio/static/css/main.7c6a125d.css.map",
-    "main.0fc46de9.js.map": "/React-Show-Off-Portfolio/static/js/main.0fc46de9.js.map"
+    "main.e78bfe2e.js.map": "/React-Show-Off-Portfolio/static/js/main.e78bfe2e.js.map"
   },
   "entrypoints": [
     "static/css/main.7c6a125d.css",
-    "static/js/main.0fc46de9.js"
+    "static/js/main.e78bfe2e.js"
   ]
 }
