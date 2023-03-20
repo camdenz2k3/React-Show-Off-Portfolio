@@ -16,6 +16,10 @@ function Footer() {
       name: "fa fa-mail-bulk",
       link: "mailto:camdenz@gmail.com"
     },
+    {
+      name: "fab fa-linkedin",
+      link: "https://www.linkedin.com/in/zachary-camden-70250026a"
+    },
   ]
 
   return (
