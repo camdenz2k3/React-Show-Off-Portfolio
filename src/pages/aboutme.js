@@ -1,4 +1,4 @@
-import profilePic from '../images/profilepic.PNG'
+import profilePic from '../images/IMG_6585.jpg'
 
 const AboutMe = props => {
     return (
